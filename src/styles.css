@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inp {
+  width: 100px;
+  margin: auto;
+  height: 20px;
+  background-color: yellow;
+}
+
+/* .inp::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #b82525;
+  color: #b82525;
+  vertical-align: top;
+}
+
+.inp::after {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: yellow;
+  color: yellow;
+  vertical-align: top;
+} */
